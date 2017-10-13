@@ -324,10 +324,10 @@
 	}
 
 	.wrapper.style3 {
-		background-color: #6a849e;
-		color: rgba(255, 255, 255, 0.75);
+		background-color: #3766c1;
+		color: rgba(255, 255, 255, 0.5);
 		/*background-attachment: fixed;*/
-		background: url("../../images/bg/overlay.png"), url("../../images/bg/birmingham4.jpg") 0 0 / cover
+		/*background: url("../../images/bg/overlay.png"), url("../../images/bg/birmingham4.jpg") 0 0 / cover*/
 		/*background-size: cover;*/
 
 	}
@@ -410,13 +410,13 @@
 	}
 
 	#banner {
-		/*padding: 8em 0 6em 0;
-		background-color: #1E2832;
-		color: rgba(255, 255, 255, 0.75);
+		/*padding: 8em 0 6em 0;*/
+		background-color: #3766c1;
+		color: rgba(255, 255, 255, 0.50);
 		background-attachment: fixed;*/
-		background-image: url("../../images/bg/overlay.png"), url("../../images/bg/birmingham4.jpg");
+		/*background-image: url("../../images/bg/overlay.png"), url("../../images/bg/birmingham4.jpg")*/
 		/*background-size: cover;
-		text-align: center;*/
+		/*text-align: center;*/
 	}	
 
 	#banner .button.special {
@@ -585,7 +585,7 @@
 
 		#banner {
 			padding: 5em 2em 3em 2em;
-			background: url("images/overlay.png"), url("../../images/bg/birmingham4_narrow.jpg") 0 0 / cover ;
+			/*background: url("images/overlay.png"), url("../../images/bg/birmingham4_narrow.jpg") 0 0 / cover ;*/
 
 		}
 
